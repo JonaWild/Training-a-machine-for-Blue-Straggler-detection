@@ -1,0 +1,1 @@
+In the two Python scripts, an attempt is made to train an algorithm using Gaia data to recognise whether a cluster has a Blue Straggler Star (BSS) or not. The HistGradientBoostingClassifier from scikit learn was used for this. 
